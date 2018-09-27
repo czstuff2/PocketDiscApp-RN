@@ -1,0 +1,74 @@
+[
+    {
+		"discName":"Glide",
+		"description":"Great for beginners and pros too, the Glide™ is easy to throw... and just keeps going! Grab a Glide™ when you need a little more controlled distance, or a long turnover driver.",
+		"plastics":"Z",
+		"speed":6,
+		"glide":5,
+		"turn":-3,
+		"fade":1,
+		"stability":-0.5,
+		"img":"zgli_mid-dk_1.jpg",
+		"type":"d"
+	},
+	{
+		"discName":"Stratus",
+		"description":"The Stratus™ is great for beginners as well as pros. Easy to throw, it will fly straight at low to mid speeds, or fade to an anhyzer at higher speeds. A well-worn Stratus™ will flip flat when thrown on a hard hyzer. Try it for roller shots too!",
+		"plastics":"X, Pro D",
+		"speed":5,
+		"glide":4,
+		"turn":-4,
+		"fade":1,
+		"stability":0.8,
+		"img":"xstr_max-br_1.jpg",
+		"type":"d"
+	},
+	{
+		"discName":"Buzzz",
+		"description":"Best seller! More players agree: Buzzz™ is the best golf disc you can buy, period. It's an ultra-dependable, straight flying midrange that you'll reach for again and again. Throw it hard and versatile Buzzz™ will hold any line you put it on.  ",
+		"plastics":"Titanium, ESP, Z, Z FLX, Pro D, F Glo, X, Pro D",
+		"speed":5,
+		"glide":4,
+		"turn":-1,
+		"fade":1,
+		"stability":0.5,
+		"img":"bzbuz_max-br_1.jpg",
+		"type":"m"
+	},
+	{
+		"discName":"Buzzz OS",
+		"description":"Top pros will advise you to 'keep it simple.'' You know & trust your Buzzz, but when the wind kicks up or you want to rip out a forehand shot, reach for a Buzzz OS. You'll still get Buzzz performance and consistency, but the 1.7 stability rating will help you tackle a wider range of challenges.",
+		"plastics":"Titanium, Z, Z FLX, Pro D, Pro D",
+		"speed":5,
+		"glide":4,
+		"turn":0,
+		"fade":3,
+		"stability":1.7,
+		"img":"fzbuo_max-br_1.jpg",
+		"type":"m"
+	},
+	{
+		"discName":"Buzzz SS",
+		"description":"Flies like a well-seasoned Buzzz right out of the box! Nice glide and super smooth for buttery anhyzers, a must have for all Buzzz fans.",
+		"plastics":"Z, Z FLX",
+		"speed":5,
+		"glide":4,
+		"turn":-2,
+		"fade":1,
+		"stability":0.0,
+		"img":"fzbuzss_max-br_1.jpg",
+		"type":"m"
+	},
+	{
+		"discName":"Meteor",
+		"description":"The Meteor delivers steady, controlled turnovers with a lot of glide... even at slower speeds. Or release it at a seven o'clock angle for a nice smooth hyzer.",
+		"plastics":"ESP, Z",
+		"speed":5,
+		"glide":5,
+		"turn":-3,
+		"fade":1,
+		"stability":-0.5,
+		"img":"zmeteor_max-br_1.jpg",
+		"type":"m"
+	}
+]

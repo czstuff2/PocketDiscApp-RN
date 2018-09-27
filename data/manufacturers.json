@@ -1,0 +1,36 @@
+{
+  "product": "Disc Manufacturers",
+  "version": 1.1,
+  "releaseDate": "2018-08-03T00:00:00.000Z",
+  "demo": true,
+  "manufacturers": [
+    {
+      "name": "Innova",
+      "id": 0,
+      "image": "https://thomasscottmiller.com/img/innova.png",
+      "description": "INNOVA was formed in 1983 to meet the developing equipment needs of disc golfers. In that year, Dave Dunipace created the World’s first disc designed specifically for the sport of Disc Golf. That first disc, the Eagle – U.S. Patent # 4,568,297, established INNOVA as the technological pacesetter in Disc Golf.",
+      "cols": 1,
+      "featured": "true",
+      "linkTo": "/innova",
+      "est": "1989"
+    },
+    {
+      "name": "Latitude",
+      "id": 2,
+      "image": "https://thomasscottmiller.com/img/latitude.png",
+      "description": "In the midst of the ”disc golf community” that grows and flourishes in Bergsbyn, a few of the experienced players and devoted enthusiasts had the dream, desire and vision to develop and produce disc golf products that would elevate the sport we all love to new heights in terms of quality and class.",
+      "cols": 1,
+      "linkTo": "/latitude",
+      "est": "unknown"
+    },
+    {
+      "name": "Discraft",
+      "id": 3,
+      "image": "https://thomasscottmiller.com/img/discraft.png",
+      "description": "We were captivated by the flying disc craze of the 1970's. To interact with a spinning disc and watch it fly is truly a beautiful thing. Our frustration at the time was over the quality of the discs that were available; flight patterns were inconsistent, distance potential was low, and the quality in general was poor. Those discs were manufactured to be toys, and we wanted high performance sports equipment to keep up with the increasing skills of the players.",
+      "cols": 1,
+      "linkTo": "/discraft",
+      "est": "1979"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+    {
+		"discName":"Mantis",
+		"description":"The 2013 Ace Race prototype is now available as the Mantis. It's a utility driver for experienced players, and a distance driver for newer players. Mantis preys on chains!",
+		"plastics":"Titanium, Z, Z Lite, Pro D, X, Pro D",
+		"speed":8,
+		"glide":4,
+		"turn":-2,
+		"fade":2,
+		"stability":0.8,
+		"img":"zmantis_max-br_1.jpg",
+		"type":"dd"
+	},
+	{
+		"discName":"Archer",
+		"description":"The popular Discraft Stratus has long been considered a 'magic' disc for its incredible versatility. The problem is that Stratus can't be produced in durable, premium plastics. So we set out to make a disc that will, and Archer is it! Anhyzers, hyzer flips, rollers... Archer is a slow disc that performs best at slow arm speeds. Get out of trouble and back on target with Archer.",
+		"plastics":"Z, Pro D",
+		"speed":7,
+		"glide":4,
+		"turn":-3,
+		"fade":1,
+		"stability":-0.5,
+		"img":"bzar_max-br_1.jpg",
+		"type":"d"
+	},
+	{
+		"discName":"Sting",
+		"description":"The design goal was to create a disc that is easy to control, holds an almost perfect line on all throws, and fits comfortably in most hands. The Sting achieved all of this.",
+		"plastics":"ESP, Pro D",
+		"speed":7,
+		"glide":5,
+		"turn":-2,
+		"fade":1,
+		"stability":0.0,
+		"img":"bzsting_max-br_1.png",
+		"type":"d"
+	},
+	{
+		"discName":"Zombee",
+		"description":"This utility driver has a stability rating of 1.0, making it easy to throw and control for the majority of disc golfers. Will hold a straight line with a slight hyzer finish.",
+		"plastics":"Titanium, Z, Pro D",
+		"speed":6,
+		"glide":4,
+		"turn":-1,
+		"fade":1,
+		"stability":1.0,
+		"img":"tizombee_max-dk_1.png",
+		"type":"d"
+	}
+]
